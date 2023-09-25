@@ -1,0 +1,49 @@
+.main{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+}
+
+.edit-div{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    gap: 10px;
+}
+.proimage{
+    width: 200px;
+    height: 200px;
+}
+
+.user-profile-div{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
+.edit-btn{
+    background-color: blue;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    margin-right: 10px;
+
+}
+.home-btn{
+    background-color: blue;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    margin-right: 10px;
+
+
+}
+.edit-div{
+    display: flex;
+    flex-direction: column;
+   gap: 10px;
+
+}

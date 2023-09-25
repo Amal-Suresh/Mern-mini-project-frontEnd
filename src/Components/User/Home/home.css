@@ -1,0 +1,18 @@
+.nav-div{
+    background-color: rgb(0, 0, 0);
+    color: red;
+}
+.nav-div button{
+    padding: 10px 20px;
+    margin-right: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: red;
+    border: none;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+.nav-div button:hover{
+    color: red;
+    background-color: white;
+}

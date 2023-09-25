@@ -1,0 +1,28 @@
+.reg-main-div{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+  
+}
+.reg-div{
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+}
+
+.reg-btn{
+    padding: 10px 20px;
+    margin-top: 10px;
+    background-color: aliceblue;
+    border: none;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+form label{
+    color: #fffafa;
+}

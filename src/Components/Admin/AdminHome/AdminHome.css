@@ -1,0 +1,36 @@
+.unblock-btn{
+    background-color: chartreuse;
+    color: black;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+.block-btn:hover{
+    background-color: black;
+    color:rgb(255, 0, 60) ;
+
+}
+.unblock-btn:hover{
+    background-color: black;
+    color: chartreuse ;
+
+}
+
+.block-btn{
+    background-color: rgb(255, 0, 60);
+    color: black;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+.logout-btn{
+        background-color: red;
+        margin-left: 20px;
+        border: none;
+        border-radius: 4px;
+
+}
+.logout-btn:hover{
+    background-color: rgb(186, 6, 6);
+
+}
